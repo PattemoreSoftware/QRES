@@ -10,6 +10,7 @@ Regional ecosystems comprise three numbers separated by periods. The first numbe
 Searches can include complete or partial RE numbers: e.g. "6.7." would limit the search to the Mulga Lands (bioregion 6) and Land Zone 7 (Cainozoic duricrusts). Adding other terms such as botanical names will further limit results.
 
 Searches can include:
-1) multiple RE numbers (e.g. 6.5. 6.7.), and/or
-2) descriptive text (e.g. Cainozoic), and/or
-3) botanical names (e.g. Acacia aneura)
+1) single or multiple RE numbers (e.g. 6.5.1) and/or
+2) partial RE numbers (e.g. 6.5. 6.7.), and/or
+3) descriptive text (e.g. Cainozoic), and/or
+4) botanical names (e.g. Acacia aneura)
