@@ -1,4 +1,6 @@
 # QRES
+https://play.google.com/store/apps/details?id=com.PattemoreSoftware.qres_flutter
+
 QRES provides an offline and powerful search of Queensland's Regional Ecosystem Description Database (REDD). This database is provided by the Queensland government and is released under Creative Commons Attribution 4.0 Licence.  The database is available at https://www.qld.gov.au/environment/plants-animals/plants/ecosystems/descriptions/download
 
 This app is primarily designed for field workers in remote areas (fully offline) and provides a more powerful search function than is available online through official channels.
